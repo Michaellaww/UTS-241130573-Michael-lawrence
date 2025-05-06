@@ -1,7 +1,15 @@
-.img
+.online{
+width:100%;
+height: auto;}
 
+body{
+    background-color: #008000;
+}
+.h3{
+    font-weight: 100;
+}
 
-.img {
-    width:100%;
-    height: auto;
+.baju{
+    font-weight: 100;
+    
 }
